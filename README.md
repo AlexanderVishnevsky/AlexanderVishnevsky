@@ -5,7 +5,7 @@
 - - 🚗 Autosport;
 - - 🛶 Kayaking;
 - - 🏀 Basketball;  
-- 🌱 I’m currently learning [ Prismic CMS ](https://prismic.io/)
+- 🌱 I’m currently learning [ NextJs 13 App Directory ](https://beta.nextjs.org/docs)
 
 
 <!---
