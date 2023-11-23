@@ -5,7 +5,7 @@
 - - 🚗 Autosport;
 - - 🛶 Kayaking;
 - - 🏀 Basketball;  
-- 🌱 I’m currently learning [ NextJs 13 App Directory ](https://beta.nextjs.org/docs)
+- 🌱 I’m currently learning [ Qwik ⚡ ](https://qwik.builder.io/)
 
 
 <!---
